@@ -2,7 +2,7 @@
  * Component dependencies.
  */
 
-var domify = require('domify');
+var domify = require('component-domify');
 
 /**
  * Expose `create`
